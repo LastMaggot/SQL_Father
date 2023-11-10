@@ -1,41 +1,15 @@
 # SQL Father - 模拟数据生成器（后端）
+# 感谢鱼皮大佬的分享，项目源为鱼皮，本项目为学习复刻实现版
 
-> SQL 之父项目：快速生成 SQL 和模拟数据，大幅提高开发测试效率！
+> SQL 之父项目：快速生成 SQL 和模拟数据，大幅提高开发测试效率！ 
 >
 > 前后端全栈项目 By [程序员鱼皮](https://docs.qq.com/doc/DUFFRVWladXVjeUxW)
->
-> **制作不易，请勿商用和二次售卖！！！**
 
 
 
-在线体验：[http://sqlfather.yupi.icu](http://sqlfather.yupi.icu)
+鱼皮前端代码仓库：[https://github.com/liyupi/sql-father-frontend-public](https://github.com/liyupi/sql-father-frontend-public)
 
-视频演示（使用教程）：[https://www.bilibili.com/video/BV1eP411N7B7/](https://www.bilibili.com/video/BV1eP411N7B7/)
-
-
-
-> 如果您觉得本项目有帮助，给 UP 主一个关注和三连就是最大的支持，谢谢！
-
-
-
-前端代码仓库：[https://github.com/liyupi/sql-father-frontend-public](https://github.com/liyupi/sql-father-frontend-public)
-
-后端代码仓库：[https://github.com/liyupi/sql-father-backend-public](https://github.com/liyupi/sql-father-backend-public)
-
-![](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/1/1666090763987-f768817c-89d6-4326-b7e1-5ad06d5cc875-20221019132239543-20221019132502106-20221019132511275.png)
-
-⭐️ 我在自己的 [编程知识星球](https://yupi.icu) 内给大家详细解读了这个项目的创作思路 + 技术选型 + 系统设计 + 源码解读 + 简历写法分享，如果你希望把这个项目写到简历上、或者深入学习，欢迎 [加入我的星球](https://yupi.icu) 观看。
-
-
-## 项目背景
-
-项目的创作起因就是鱼皮为了解决自己开发项目时反复写 SQL 建表和造数据的麻烦，顺便开源给大家一起来学习和完善~
-
-试想一下：如果我做新项目的时候，不用写建表 SQL、不用造数据，能直接得到一个造好了假数据的表，那该有多好！
-
-> 有同学问为什么项目不叫 SQL Mother？那我问问你为什么继承叫父类？
-
-
+鱼皮后端代码仓库：[https://github.com/liyupi/sql-father-backend-public](https://github.com/liyupi/sql-father-backend-public)
 
 ## 应用场景
 
